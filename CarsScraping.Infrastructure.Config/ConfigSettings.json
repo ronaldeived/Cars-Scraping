@@ -1,0 +1,16 @@
+{
+  "CarsScrapeConfig": {
+    "LoginFieldId": "email",
+    "PasswordId": "password",
+    "SubmitSelector": "sds-button",
+    "SearchButton": "//*[@id='by-make-tab']/div/div[7]/button",
+    "Url": "https://www.cars.com/",
+    "UserLogin": "rona_dev@outlook.com",
+    "UserPassword": "TestFinDox",
+    "MakeCar": "//*[@id='makes']",
+    "ModelCar": "//*[@id='models']",
+    "Condition": "//*[@id='make-model-search-stocktype']",
+    "NameUserSelector": "//*[@id='desktop-menu-button']/div[1]/span",
+    "CardVehicleSelector": "vehicle-card"
+  }
+}

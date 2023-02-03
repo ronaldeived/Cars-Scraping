@@ -1,0 +1,9 @@
+{
+  "SeleniumConfig": {
+    "Browser": "Firefox",
+    "DriverPath": "C:\\Users\\ronaldeived.silva\\source\\repos\\CarsScrape\\SeleniumDrivers",
+    "IsHeadless": true,
+    "NavigationTimeout": 120,
+    "WaitElementTimeout": 5
+  }
+}
